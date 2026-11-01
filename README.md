@@ -4,9 +4,9 @@ Projeto de análise de dados de ponta a ponta com o dataset público **Adventure
 
 > **Moeda:** os valores são apresentados em dólares americanos (US$), convenção do AdventureWorks. O dataset não informa a moeda de forma explícita.
 
-**Demonstração em vídeo (1 a 2 min):** [assistir no YouTube](https://youtu.be/S4QGLxKrsxc)
+**Demonstração em vídeo (2 min):** [assistir no YouTube](https://youtu.be/S4QGLxKrsxc)
 
-![Resumo executivo](docs/img/00_resumo_executivo.png)
+![Resumo executivo](docs/img/00_resumo_executivo.png,.png)
 
 ---
 
