@@ -6,7 +6,7 @@ Este documento descreve a fonte dos dados, o modelo estrela, o ambiente e os pro
 
 ## Fonte de dados
 
-O dataset é composto por 10 arquivos CSV (AdventureWorks, versão Maven Analytics):
+O dataset é composto por 10 arquivos CSV e pode ser encontrado em https://www.kaggle.com/datasets/shaikhshoeb/adventureworks-dataset-for-data-analysis:
 
 | Arquivo | Conteúdo |
 |---|---|
@@ -37,7 +37,7 @@ Tabelas de **dimensão** descrevem "quem, o quê, onde, quando"; tabelas de **fa
 
 **Ordem de criação e carga:** dimensões primeiro (respeitando a hierarquia Categoria → Subcategoria → Produto) e fatos por último, exigência do SQL Server para as constraints de chave estrangeira.
 
-![Diagrama ER](er-diagram.png)
+![Diagrama ER](docser-diagram.png.png)
 
 ## Ambiente
 
