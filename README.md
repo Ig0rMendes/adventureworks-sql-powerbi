@@ -6,7 +6,7 @@ Projeto de análise de dados de ponta a ponta com o dataset público **Adventure
 
 **Demonstração em vídeo (2 min):** [assistir no YouTube](https://youtu.be/S4QGLxKrsxc)
 
-![Resumo executivo](docs/img/00_resumo_executivo.png,.png)
+![Resumo executivo](docs/img/00_resumo_executivo.png)
 
 ---
 
