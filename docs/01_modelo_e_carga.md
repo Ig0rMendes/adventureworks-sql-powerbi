@@ -37,7 +37,7 @@ Tabelas de **dimensão** descrevem "quem, o quê, onde, quando"; tabelas de **fa
 
 **Ordem de criação e carga:** dimensões primeiro (respeitando a hierarquia Categoria → Subcategoria → Produto) e fatos por último, exigência do SQL Server para as constraints de chave estrangeira.
 
-![Diagrama ER](docser-diagram.png.png)
+![Diagrama ER](er-diagram.png)
 
 ## Ambiente
 
